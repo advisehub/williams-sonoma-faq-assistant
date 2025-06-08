@@ -6,8 +6,6 @@ An AI-powered chatbot that answers customer questions using Retrieval-Augmented 
 
 - **[Live WS Customer Service Chatbot](https://v0-williams-sonoma-ai.vercel.app/)** - Try the Live FAQ assistant
 - **[Evaluation Dashboard](https://v0-williams-sonoma-ai.vercel.app/evaluation)** - View performance metrics
-- **[Admin Panel](https://your-deployment-url.vercel.app/admin)** - Monitor vector database
-- **[Browse Data](https://your-deployment-url.vercel.app/browse)** - Explore FAQ vectors
 
 ---
 
