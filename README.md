@@ -63,6 +63,10 @@ Williams-Sonoma receives thousands of customer inquiries about orders, shipping,
 
 ## 🏗️ System Overview
 
+### AI Data Platform Overview
+<img width="982" alt="image" src="https://github.com/user-attachments/assets/0cd73ca7-1614-4156-ab67-f175612ef8aa" />
+
+
 ### Architecture Diagram
 
 <img width="901" alt="image" src="https://github.com/user-attachments/assets/8ee169a6-067d-4614-8310-f9e8c86efbef" />
