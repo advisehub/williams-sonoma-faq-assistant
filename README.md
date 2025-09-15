@@ -8,7 +8,7 @@ Author: **Sanjay Yadgirkar**
 
 - **[Live WS Customer Service Chatbot](https://v0-williams-sonoma-ai.vercel.app/)** - Try the Live FAQ assistant
 - **[Evaluation Dashboard](https://v0-williams-sonoma-ai.vercel.app/evaluation)** - View performance metrics
-
+- **[William-Sonoma Customer FAQ Portal](https://www.williams-sonoma.com/customer-service/faq.html/)**
 ---
 
 ## 📋 Table of Contents
