@@ -2,6 +2,8 @@
 
 An AI-powered chatbot that answers customer questions using Retrieval-Augmented Generation (RAG) based on Williams-Sonoma's official FAQ data.
 
+Author: **Sanjay Yadgirkar**
+
 ## 🔗 Quick Links
 
 - **[Live WS Customer Service Chatbot](https://v0-williams-sonoma-ai.vercel.app/)** - Try the Live FAQ assistant
